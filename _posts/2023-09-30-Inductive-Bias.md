@@ -1,9 +1,9 @@
 ---
 title: "[Background] Inductive Bias"
 date: 2023-09-30 11:50:00 +09:00
-categories: [AI, Background]
+categories: [AI]
 tags:
-  [ 기초 ]
+  [ Background ]
 math: true
 ---
 

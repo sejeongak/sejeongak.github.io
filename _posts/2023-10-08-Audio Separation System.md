@@ -1,9 +1,9 @@
 ---
 title: "[Background] Audio Separation System"
 date: 2023-10-10 10:50:00 +09:00
-categories: [AI, Background]
+categories: [AI]
 tags:
-  [ Audio ]
+  [ Background ]
 math: true
 ---
 

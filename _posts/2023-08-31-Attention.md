@@ -1,9 +1,9 @@
 ---
 title: Attention Is All You Need
 date: 2023-08-31 16:50:00 +09:00
-categories: [AI, 논문]
+categories: [AI]
 tags:
-  [ NLP ]
+  [ 논문 ]
 math: true
 ---
 
