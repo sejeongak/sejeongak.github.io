@@ -1,5 +1,5 @@
 ---
-title: "Bypartite Matching"
+title: "Bipartite Matching"
 date: 2023-10-11 21:50:00 +09:00
 categories: [AI]
 tags:
