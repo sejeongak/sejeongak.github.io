@@ -1,5 +1,5 @@
 ---
-title: Attention Is All You Need
+title: "[Paper] Attention Is All You Need"
 date: 2023-08-31 16:50:00 +09:00
 categories: [AI]
 tags:

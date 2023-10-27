@@ -1,5 +1,5 @@
 ---
-title: "Segmentation Evaluation Metrics"
+title: "[Background] Segmentation Evaluation Metrics"
 date: 2023-10-24 22:50:00 +09:00
 categories: [AI]
 tags:
